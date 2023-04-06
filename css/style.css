@@ -9,6 +9,7 @@ body {
   background-repeat: no-repeat;
   background-position: right;
   color: white;
+  height: 100vh;
 }
 
 .container1 {
